@@ -1,2 +1,2 @@
-# oilprice_scraper
-kapook oil price scraping project
+# Kapook Oilprice Scraper
+Scraping project using Python, Selenium, PostgresDB
