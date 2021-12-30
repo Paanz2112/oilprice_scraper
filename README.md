@@ -9,5 +9,5 @@ How to use
 >__(I'm using Python 3.7 if you using other version please see pypi for more compatible version of library)__  
 4. download geckowebdriver and put it in "c:/WebDriver/bin/geckodriver" or your desire path
 >[download link here](https://github.com/mozilla/geckodriver/releases)
-5. download and install PostgresSQL (v.10++) 
+5. download and install [PostgresSQL (v.10++)](https://www.postgresql.org/download/) 
 6. have fun
