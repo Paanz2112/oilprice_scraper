@@ -1,5 +1,6 @@
 # Kapook Oilprice Scraper
 Scraping project using Python, Selenium, PostgresDB  
+This script will create database and table automaticaly  
   
 How to use  
 1. create .env file  
